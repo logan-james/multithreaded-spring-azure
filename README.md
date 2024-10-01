@@ -8,6 +8,9 @@ This guide outlines the steps for deploying a multithreaded Spring application t
 - **Docker**: Docker should be installed, and you should be familiar with creating Docker images.
 - **Azure Account**: You need an Azure account for deploying the application.
 
+<img width="723" alt="Screenshot 2024-10-01 at 2 26 11 PM" src="https://github.com/user-attachments/assets/7d99a506-3e22-4c5e-8584-ecca1d71a89b">
+
+
 ## Steps for Deployment
 
 ### 1. Prepare Your Docker Image
